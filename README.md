@@ -1,7 +1,7 @@
 # deployment
  Deployed My First Website Using AWS EC2, Route 53, and Elastic IP.
  
-✅ Launched an EC2 instance (Amazon Linux 2)
+ ✅ Launched an EC2 instance (Amazon Linux 2)
  ✅ Installed the httpd web server and hosted my static website
  ✅ Allocated and associated an Elastic IP to my EC2 instance
  ✅ Registered my domain koushikcloudfactory.xyz
